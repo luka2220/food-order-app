@@ -1,4 +1,4 @@
-# food-order-app
+# Food Order App
 A food ordering app built with react and css for practicing react key concepts and components
 
 ## Link to site
